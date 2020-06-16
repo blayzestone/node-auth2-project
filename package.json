@@ -20,6 +20,7 @@
   "homepage": "https://github.com/LambdaSchool/node-auth2-project#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
     "knex": "^0.21.1",
     "sqlite3": "^4.2.0"
   },
